@@ -6,3 +6,5 @@ Examples for x86 assembly language
 * bubbleSort (*implementation of algorithm in x86 language*)
   
 * getIndex (*find last appearance of value in array*)
+
+* removeFromArray (*remove element from array and free memory*)
