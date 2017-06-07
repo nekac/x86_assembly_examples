@@ -9,6 +9,8 @@ Examples for x86 assembly language
   
 * getIndex (*find last appearance of value in array*)
 
+* lessThan (*remove all elements from array bellow some value*)
+
 * moveMin (*move all min elements on start of array*)
 
 * removeFromArray (*remove element from array and free memory*)
