@@ -14,3 +14,5 @@ Examples for x86 assembly language
 * moveMin (*move all min elements on start of array*)
 
 * removeFromArray (*remove element from array and free memory*)
+
+* rotation (*rotate array to the left by the given num of rotations*)
