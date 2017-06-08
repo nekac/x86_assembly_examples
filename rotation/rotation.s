@@ -45,7 +45,7 @@ shiftElements:
 	
 	mov eax, [ebx+4*ecx]
 	mov [ebx+4*ecx-4], eax
-inc ecx
+	inc ecx
 	jmp shiftElements
 
 nextRotation:
